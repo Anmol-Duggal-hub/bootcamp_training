@@ -1,0 +1,173 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;                                      
+   }
+   #wrapper{
+    width: 970px;
+    height: 1250px;
+    background-color: rgb(26,26,26);
+    margin: 0px auto;
+   }
+   .headerimg{
+       margin-top: 20px;
+       margin-left: 10px;
+       margin-right: 550px;
+   }
+   .headerp{
+       color: white;
+       display: inline-block;
+       vertical-align: top;
+       margin-top: 20px;
+       font-weight: bold;
+   }
+   .navbar{
+       width:930px;
+       height: 60px;
+       background-image:linear-gradient(rgb(77, 77, 77), rgb(45, 45, 45));
+       margin-left: 15px;
+   }
+   .navbar a{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    color:rgb(161,161,157);
+    text-decoration: none;
+    vertical-align: middle;
+    display: inline-block  
+   }
+   .navdiv{
+       font-size: 50px;
+       margin-top: 10px;
+       padding-top: 10px;
+       vertical-align: middle;
+       color: rgb(76, 76, 76);
+       border: 1px;
+       border-color: black;
+   }
+   .navhome{
+       color: white;
+   }
+   .navdiv2{
+    font-size: 60px;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: rgb(76, 76, 76);
+    border: 1px;
+    border-color: black;
+    margin-left: 300px;
+    vertical-align: middle;
+   }
+   .mainimg{
+   width: 930px;
+   margin-left: 15px;
+    }
+.bottomborder{
+    width: 930px;
+    height: 5px;
+    background-color: rgb(76, 76, 76);
+    margin-left: 15px;
+}
+.midsection{
+    width: 930px;
+    height: 140px;
+    background-color: rgb(26, 26, 26);
+    margin-left: 15px;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+.midsection img{
+    display: inline-block;
+    vertical-align: top;
+    margin: 3px;
+}
+.midsection p{
+    display: inline-block;
+    width: 170px;
+    color: white;
+}
+.ptitle{
+    font-size: 25px;
+    color: rgb(225, 121, 44);
+}
+.ptitle1{
+    font-size: 24px;
+    color: rgb(225, 121, 44);
+}
+.patternMidSection{
+    width: 880px;
+    height: 120px;
+    background-color: black;
+    margin-left: 15px;
+    padding-top: 20px;
+    padding-left:50px;
+}
+.patternMidSection h3{
+    color: white;
+    margin-top: 20px;
+    width: 600px;
+    font-size: 25px;
+}
+.patternMidSection p{
+    color:white;
+    width: 500px;
+    margin-top: 10px;
+    margin-right: 180px;
+    display: inline-block;
+}
+.patternMidSection button{
+    color: white;
+    background-color: rgb(225, 121, 44);
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    vertical-align: top;
+    border-radius: 5px;
+    border-color:  rgb(225, 121, 44);
+    font-size: 15px;
+}
+.footer{
+    width: 930px;
+    height: 220px;
+    background-color:  rgb(26,26,26);
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+.footer h3{
+   color: white; 
+   display: inline-block;
+   width: 200px;
+   margin-right: 505px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+.footer p{
+    width:200px;
+    display: inline-block;
+    color:rgb(225, 121, 44);
+    font-style: italic;
+}
+.footer img{
+    margin-top: 10px;
+    border: 10px;
+    border-color: lightgray;
+}
+.footerinfo{
+    width: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+.footerinfo p{
+    display: block; 
+    color: white;
+    margin-top: 10px;
+}
+.footerinfotitle{
+    color:rgb(225, 121, 44);
+    font-style: normal;
+    font-weight: bold;
+}
+
+

@@ -1,0 +1,245 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;                                      
+}
+#wrapper{
+ width: 970px;
+ height: 900px;
+ background-color: rgb(36, 80, 119);
+ margin: 0px auto;
+}
+
+.textsize{
+    color: white;
+    text-align: right;
+    margin-right: 50px;
+    padding-top: 20px;
+    
+}
+
+.textsize a{
+    color:rgb(253, 210, 47);
+    text-decoration: underline;
+    display: inline-block;
+}
+
+.random{
+    color: black;
+}
+
+.header{
+    width: 970px;
+    height: 100px;
+    margin: 5px;
+}
+
+.mainimage{
+    width: 350px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.searchbar{
+    width: 300px;
+    height: 60px;
+    display: inline-block;
+    background-color:rgb(68, 68, 68);
+    margin-left: 270px;
+    vertical-align: top;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.search{
+    width: 170px;
+    height: 35px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+.searchbutton{
+    width:40px;
+    height:30px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px 1px black;
+    margin:5px;
+    background-color: rgb(36, 80, 119);
+    color: white;
+    border-color: gray;
+}
+
+.navbar{
+    width: 800px;
+    height: 10px;
+    background-color: rgb(69, 125, 173);
+    margin-left: 70px;
+    padding:30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.navbar a{
+
+    text-align: center;
+    color: white;
+    font-size: 21px;
+    margin-left: 45px;
+    text-decoration: none;
+}
+
+
+.guidelist{
+    width: 150px;
+    color: white;
+    margin-left: 120px;
+    margin-top: 30px;
+    display: inline-block;
+
+    
+}
+
+.guidelist ul{
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+.guidelist ul li{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.guidelist ul li a{
+    color: white;
+    
+}
+
+.arrow{
+    color:rgb(253, 210, 47)
+}
+
+.description{
+    height: 50px;
+    width: 550px;
+
+}
+
+.history{
+    height: 50px;
+    width: 550px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.history p{
+    color: white;
+}
+
+.listdescription{
+    height: 50px;
+    width: 550px;
+    color:rgb(253, 210, 47);
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.listdescription li{
+    padding: 5px;
+}
+
+.zen{
+    color: white;
+    font-style: normal;
+}
+
+.gettingstarted{
+    background-color: white;
+    height: 250px;
+    width: 430px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.border{
+    background-color:rgb(114, 167, 213);
+    width: 400px;
+    height: 5px;
+    margin-left: 60px;
+}
+.gettingstarted h3{
+    margin-left: 10px;
+    margin-top:20px;
+}
+.gettingstarted p{
+    color:black;
+    width:400px;
+   margin-left: 50px;
+   padding: 20px;
+}
+
+.gettingstarted ul{
+    height: 50px;
+    width: 225px;
+    color:black;
+    display: block;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 15px;
+    list-style: square;
+}
+
+.listtext{
+    color: lightblue;
+}
+
+.midsectionwrapper{
+    background-color: white;
+    height: 300px;
+    margin-top: 70px;
+}
+
+.footer{
+    width: 700px;
+    height:60px;
+    background-color: rgb(36, 80, 119);
+    padding-left: 200px;
+}
+
+.footer p{
+    display: inline-block;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: center;
+    color:lightblue;
+}
+
+.copyright{
+    display: block;
+    margin-left: 450px;
+    width: 970px;
+    font-size: 10px;
+    color: lightblue;
+}
+
+
+
+

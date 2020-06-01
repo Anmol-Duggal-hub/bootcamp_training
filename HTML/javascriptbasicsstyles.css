@@ -1,0 +1,95 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;                                      
+}
+#wrapper{
+ width: 970px;
+ height: 750px;
+ background-color: rgb(27,51,94);
+ margin: 0px auto;
+ padding: 10px;
+}
+#header{
+
+ background-color: rgb(207,47,54);
+ margin-bottom: 10px;
+ border-radius: 15px;
+ padding-top: 30px;
+ padding-bottom: 30px;
+ padding-left: 10px;
+}
+.title{
+    color: white;
+    text-align: left;
+}
+
+.navtitle{
+    color: lightblue;
+    text-decoration: underline;
+}
+
+.navlist{
+    color: lightblue;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.projectslist{
+    color: lightblue;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+#navigation{
+ background-color: rgb(41, 125, 140);
+ display: inline-block;
+ vertical-align: top;
+ border-radius: 15px;
+ padding: 20px;
+}
+#main_content{
+ height: 500px;
+ width: 700px;
+ background-color: rgb(13, 24, 33);
+ display: inline-block;
+ padding: 5px;
+ margin-left: 35px;
+ border-radius: 15px;
+}
+
+.mainh2 {
+    color: white;
+    margin: 5px;
+}
+
+.mainP1 {
+    color: white;
+    margin: 5px
+}
+
+.mainlist{
+    color: white;
+    margin-left: 25px;
+}
+
+.mainspan {
+    color: lightblue;
+    text-decoration: underline;
+}
+
+#advertisement{
+ min-height: 50px;
+ background-color: rgb(94, 102, 115);
+ margin: 20px;
+ border-radius: 15px;
+}
+
+.adP1 {
+    color: white;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
